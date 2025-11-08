@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Kisan AI",
+  "description": "An AI assistant for Indian farmers. Get instant answers on crops, soil, pests, and government schemes. Features voice, text, image, and video analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
